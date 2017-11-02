@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="search">search</string>
+    <string name="clear_search">clear search</string>
+    <string name="start_polling">Start Polling</string>
+    <string name="stop_polling">Stop polling</string>
+    <string name="new_picture_title">new photogallery pictures</string>
+    <string name="new_picture_text">you hava a new picture in photogallery</string>
+</resources>
